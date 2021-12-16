@@ -1,0 +1,4 @@
+.release
+.vscode
+meta.ini
+*.code-workspace
