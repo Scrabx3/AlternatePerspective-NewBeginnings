@@ -2,3 +2,4 @@
 .vscode
 meta.ini
 *.code-workspace
+*.pex
