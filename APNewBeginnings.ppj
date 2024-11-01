@@ -11,7 +11,7 @@
         <Variable Name="ThisProject" Value="."/>
         <Variable Name="Rel" Value=".\.release"/>
         <Variable Name="MO2" Value=".."/>
-        <Variable Name="Ver" Value="1.3.2"/>
+        <Variable Name="Ver" Value="1.3.3"/>
     </Variables>
     <Imports>
         <Import>@ThisProject\Source\Scripts</Import>
@@ -33,8 +33,7 @@
             <Include>*.txt</Include>
         </ZipFile>
         <ZipFile Name="@ModName - Dragon Start" RootDir="@ThisProject\optional" Compression="deflate">
-            <Include>Scripts</Include>
-            <Include>Source</Include>
+            <Include>SKSE</Include>
         </ZipFile>
     </ZipFiles>
 </PapyrusProject>
