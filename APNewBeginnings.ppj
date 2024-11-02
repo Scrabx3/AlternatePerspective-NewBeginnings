@@ -29,8 +29,9 @@
             <Include>*.esp</Include>
             <Include>Scripts</Include>
             <Include>Seq</Include>
+            <Include>SKSE</Include>
             <Include>Source</Include>
-            <Include>*.txt</Include>
+            <Include>Readme.txt</Include>
         </ZipFile>
         <ZipFile Name="@ModName - Dragon Start" RootDir="@ThisProject\optional" Compression="deflate">
             <Include>SKSE</Include>
