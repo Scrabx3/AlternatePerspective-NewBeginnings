@@ -16,8 +16,6 @@
     <Imports>
         <Import>@ThisProject\Source\Scripts</Import>
         <Import>@MO2\Creation Kit\Source\Scripts</Import>
-        <!-- Ressources -->
-        <Import>@MO2\PapyrusUtil SE - Modders Scripting Utility Functions\Source\Scripts</Import>
         <!-- Base Game -->
         <Import>C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Source\Scripts</Import>
     </Imports>
